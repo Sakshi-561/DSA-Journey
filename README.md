@@ -8,6 +8,7 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 
 ### Arrays
 - Smallest Number in an Array
+- Largest Number in an Array
 
 More problems coming soon...
 
