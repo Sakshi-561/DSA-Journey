@@ -11,6 +11,7 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 - Largest Number in an Array
 - Sum of an Array
 - Even and Odd Number in Array
+- Positive/Negative/zero Number in Array
 
 
 ##  Language
