@@ -12,6 +12,7 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 - Sum of an Array
 - Even and Odd Number in Array
 - Positive/Negative/zero Number in Array
+- Linear Search in Array
 
 
 ##  Language
