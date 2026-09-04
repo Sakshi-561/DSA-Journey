@@ -17,6 +17,7 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 ### Binary Search
 - Binary Search in Array
 - First and Last Occurence
+- Rotated Array
 
 ##  Language
 - C++
