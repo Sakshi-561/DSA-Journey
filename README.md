@@ -14,6 +14,8 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 - Positive/Negative/zero Number in Array
 - Linear Search in Array
 
+### Binary Search
+- Binary Search in Array
 
 ##  Language
 - C++
