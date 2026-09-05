@@ -19,6 +19,7 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 - First and Last Occurence
 - Rotated Array
 - Peak Element
+- Square Root using Binary Search
 
 ##  Language
 - C++
