@@ -20,6 +20,7 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 - Rotated Array
 - Peak Element
 - Square Root using Binary Search
+- Book Allocation
 
 ##  Language
 - C++
