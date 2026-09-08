@@ -22,6 +22,7 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 - Square Root using Binary Search
 - Book Allocation
 - Painter Partitions
+- Aggressive Cow
 
 ##  Language
 - C++
