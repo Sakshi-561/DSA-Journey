@@ -24,6 +24,9 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 - Painter Partitions
 - Aggressive Cow
 
+### 2-D Array
+- Sparse Matrix
+
 ##  Language
 - C++
 
