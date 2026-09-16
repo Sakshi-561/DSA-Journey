@@ -27,6 +27,10 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 ### 2-D Array
 - Sparse Matrix
 
+### Linked List
+- Push value in front
+- Push value in back
+
 ##  Language
 - C++
 
