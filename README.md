@@ -30,6 +30,7 @@ I am learning Data Structures and Algorithms using C++ and solving problems step
 ### Linked List
 - Push value in front
 - Push value in back
+- Pop value in front
 
 ##  Language
 - C++

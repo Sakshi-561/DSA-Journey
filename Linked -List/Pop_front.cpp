@@ -19,18 +19,28 @@ public:
     List(){
         head=tail=NULL;
     }
-    void push_front(int val){
+    void push_back(int val){
         node* newNode=new node(val);
         if(head==NULL){
             head=tail=newNode;
-            return;
         }
         else{
-            newNode->next=head;
-            head=newNode;
+            tail->next=newNode;
+            tail=newNode;
         }
     }
-    //Function to print
+
+    void pop_front(){
+        if(head==NULL){
+            cout<<"Linked list is empty\n";
+            return;
+        }
+        node* temp=head;
+        head=head->next;
+        temp->next=NULL;
+        delete temp;
+    }
+
     void print(){
         node* temp=head;
         while(temp!=NULL){
@@ -40,24 +50,18 @@ public:
         cout<<"NULL"<<endl;
     }
 };
-
 int main(){
     List ll;
-    ll.push_front(4);
-    ll.push_front(3);
-    ll.push_front(2);
-    ll.push_front(1);
+    ll.push_back(4);
+    ll.push_back(3);
+    ll.push_back(2);
+    ll.push_back(1);
+
     ll.print(); 
+
+    ll.pop_front();
+    
+     ll.print(); 
     return 0;
 }
  
-
-
-
-
-
-
-
-
-
-
